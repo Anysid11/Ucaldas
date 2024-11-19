@@ -1,0 +1,13 @@
+python --version 
+python -m venv env 
+
+si no funciona env\Scripts\activate 
+en powershell como admi ejecutar 
+Set-ExecutionPolicy Unrestricted
+dar permiso con S 
+Python.exe -m pip install --upgrade pip
+pip install nltk
+pip install scikit-learn 
+pip install flask 
+
+
